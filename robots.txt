@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://StephViollet.github.ioempty/sitemap.xml
+Sitemap: https://StephViollet.github.io/website//sitemap.xml
