@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Stéphane Viollet - CNRS # the website title (if blank, full name will be used instead)
-first_name: Stéphane
+title: # the website title (if blank, full name will be used instead)
+first_name: Stephane
 middle_name: 
 last_name: Viollet
 email: you@example.com
