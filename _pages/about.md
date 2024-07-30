@@ -12,7 +12,7 @@ profile:
     <p>Bio-Inspired Systems (SBI team)</p>
     <p>163 avenue de luminy</p>
     <p>Marseille, 13009, France</p>
-    <a href='https://maps.app.goo.gl/Znj9xfpXLKr7o9Gs7)/'>Google Maps</a>
+    <a href='https://maps.app.goo.gl/qnwqtfZiPf5YnZ5d6'>Google Maps</a>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
