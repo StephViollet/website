@@ -14,7 +14,6 @@ profile:
     <p>Bio-Inspired Systems (SBI team)</p>
     <p>163 avenue de luminy</p>
     <p>Marseille, 13009, France</p>
-    <a href='https://maps.app.goo.gl/qnwqtfZiPf5YnZ5d6'>Google Maps</a>
     <a href='https://matthieuparent.net/'>Photo credit Matthieu Parent</a>
 
 news: false # includes a list of news items
