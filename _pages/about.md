@@ -7,6 +7,7 @@ subtitle: <a href='https://ism.univ-amu.fr/'>Affiliations:</a>. Institute of Mov
 profile:
   align: right
   image: moi_parent1_nb.jpg
+  fig-caption: Photo by Matthieu Parent
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Bio-Inspired Systems (SBI team)</p>
