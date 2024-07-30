@@ -3,7 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='https://ism.univ-amu.fr/'>Affiliations:</a>. Institute of Movement Sciences, Marseille, France.
-
+          <a href='https://maps.app.goo.gl/qnwqtfZiPf5YnZ5d6'>Google Maps</a>
+          
 profile:
   align: right
   image: moi_parent1_nb.jpg
@@ -14,6 +15,7 @@ profile:
     <p>163 avenue de luminy</p>
     <p>Marseille, 13009, France</p>
     <a href='https://maps.app.goo.gl/qnwqtfZiPf5YnZ5d6'>Google Maps</a>
+    <a href='https://matthieuparent.net/'>Photo credit Matthieu Parent</a>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
